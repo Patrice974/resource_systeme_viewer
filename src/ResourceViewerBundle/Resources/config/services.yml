@@ -1,0 +1,4 @@
+services:
+#    resource_viewer.example:
+#        class: ResourceViewerBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
